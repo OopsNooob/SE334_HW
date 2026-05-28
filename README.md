@@ -1,4 +1,4 @@
-# SE334 - Software Engineering Course Materials
+# SE334 - Các phương pháp lập trình
 
 ## � Mục lục
 1. [Calculator - Ứng dụng Android](#-calculator---ứng-dụng-android)
